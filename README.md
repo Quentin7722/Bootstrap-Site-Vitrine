@@ -8,7 +8,7 @@ Ouvrir le fichier index.html dans un naviguateur.
 
 ## Fabriqué avec
 
-- [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit.
+- [Bootstrap](https://getbootstrap.com/) - Powerful, extensible, and feature-packed frontend toolkit
 
 ## Versions
 
